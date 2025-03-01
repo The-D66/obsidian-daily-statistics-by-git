@@ -25,6 +25,7 @@
     "@vue/tsconfig": "^0.4.0",
     "@vueuse/core": "^10.11.0",
     "builtin-modules": "3.3.0",
+    "dependency-cruiser": "^16.10.0",
     "dotenv": "^16.4.5",
     "dotenv-expand": "^10.0.0",
     "element-plus": "^2.7.6",
